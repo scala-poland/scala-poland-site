@@ -20,11 +20,10 @@ main {
 ul {
   &:not(.browser-default) {
     padding-left: 0;
+}
+.side-nav {
+  li {
     list-style-type: none;
-
-    & > li {
-      list-style-type: none;
-    }
   }
 }
 
