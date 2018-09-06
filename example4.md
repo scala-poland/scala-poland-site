@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Regulamin
+title: Regulamin chat-u
 permalink: /coc/
 ---
 
