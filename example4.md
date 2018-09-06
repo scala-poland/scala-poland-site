@@ -12,7 +12,7 @@ Regulamin:
 * Napisz coś o sobie na kanale #welcome, skąd jesteś, czego potrzebujesz, może mentora?, cokolwiek ;).
 * I nie bać się! Pisać, pytać, dzielić się. Komunikator jest dla ludzi ;).
 * Ustaw sobie (minimalne) powiadomienia na slacku, lepiej rzadziej wchodzić niż zniechęcić się całkowicie do grupy.
-* Wczytaj swoje zdjęcie do profilu. Będziemy sobie bardziej ludzcy.
+* Wczytaj swoje zdjęcie do profilu. Będzie milej i rozbudowujesz swój zawodowy image.
 * Unikaj komunikacji 1to1 jeśli dany temat może być ciekawy dla innych. Domyślnie pytaj/zgłaszaj na publicznych kanałach.
 
 @english: you can write in english, everybody will understand you, you might be interested in channels: #hiring and #english

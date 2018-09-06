@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Firmy Scala-owe
+title: Firmy scalowe
 permalink: /companies/
 ---
 
