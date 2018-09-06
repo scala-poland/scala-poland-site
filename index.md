@@ -2,4 +2,4 @@
 layout: home
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+Strona ogólno-polskiej grupy entuzjastów Scali.
