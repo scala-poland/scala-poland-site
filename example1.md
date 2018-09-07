@@ -32,6 +32,11 @@ Warszawa + okolice:
 * YouGov - Maciej Turło, mały oddział dużej firmy ankietowej
 * 9LivesData - ?, ~50 osób, prowadzą projekt Big Data/ML w Scali, oraz drugi, większy, w C++ i Python.
 
+Łódź - ziemia obiecana
+* IDEMIA - Paweł Włodarski(na grupie) Domeny biznesowe zwiazane z  kryptografią, są dwa projekty czysto scalowe, jeden ma interfejsy SOAPowe , korpo własne produkty. Widełki na scale 10-15k na B2B.
+* TomTom -  mapy robią, korpo własne produkty. 
+* GFT -  usługi dla banków, korpo outsorcing.
+
 Kraków + okolice:
 * VirtusLab - Paweł Dolega i wiele innych osób (na grupie), software house / usługi softwarowe na świat, duża firma (120+ osób), sporo eventów. Biuro także w Kielcach.
 * Schibsted - ???
