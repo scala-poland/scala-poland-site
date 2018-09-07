@@ -33,9 +33,9 @@ Warszawa + okolice:
 * 9LivesData - ?, ~50 osób, prowadzą projekt Big Data/ML w Scali, oraz drugi, większy, w C++ i Python.
 
 Łódź - ziemia obiecana
-* IDEMIA - Paweł Włodarski(na grupie) Domeny biznesowe zwiazane z  kryptografią, są dwa projekty czysto scalowe, jeden ma interfejsy SOAPowe , korpo własne produkty.
-* TomTom - Michał Mela, mapy robią, korpo własne produkty. 
-* GFT - Robert Budzko - usługi dla banków, korpo outsorcing.
+* IDEMIA - Paweł Włodarski(na grupie) Domeny biznesowe zwiazane z  kryptografią, są dwa projekty czysto scalowe, jeden ma interfejsy SOAPowe , korpo własne produkty. Widełki na scale 10-15k na B2B.
+* TomTom -  mapy robią, korpo własne produkty. 
+* GFT -  usługi dla banków, korpo outsorcing.
 
 Bardziej zdalne niż lokalne:
 * Pyrofex - Paweł Szulc (na grupie), USA mocno funkcyjnie
