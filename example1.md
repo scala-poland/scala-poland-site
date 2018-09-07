@@ -37,6 +37,11 @@ Warszawa + okolice:
 * TomTom -  mapy robią, korpo własne produkty. 
 * GFT -  usługi dla banków, korpo outsorcing.
 
+Kraków + okolice:
+* VirtusLab - Paweł Dolega i wiele innych osób (na grupie), software house / usługi softwarowe na świat, duża firma (120+ osób), sporo eventów. Biuro także w Kielcach.
+* Schibsted - ???
+* j-Labs - głównie outsourcing, takżę Scalowy
+
 Bardziej zdalne niż lokalne:
 * Pyrofex - Paweł Szulc (na grupie), USA mocno funkcyjnie
 * Scalac - Mariusz Nosiński (na grupie), wypożyczają na świat, duzi
