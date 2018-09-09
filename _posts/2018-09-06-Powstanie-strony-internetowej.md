@@ -14,3 +14,5 @@ Trochę historii grupy slackowego:
 - Zmieniono logo z syrenki na obecne. Poniżej z czego wybierano:
 
 <img src="/assets/glosowanieLogo.png">
+
+Strona powstała w oparciu o szablon: [materialize](https://github.com/macrod68/jekyll-materialize-starter-template)
