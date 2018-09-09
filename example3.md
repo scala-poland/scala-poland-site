@@ -16,3 +16,5 @@ Reszta linków:
 * [Least Power Principle](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
 * [Why Scala - Big Data](https://mesosphere.com/blog/learn-everything-you-need-to-know-about-scala-and-big-data-in-oakland/)
 * [Why Scala - grows well with the community](https://www.youtube.com/watch?v=_ahvzDzKdB0)
+
+<a href="{{ site.github.repository_url }}/tree/master/example3.md">Edytuj listę</a>
