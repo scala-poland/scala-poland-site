@@ -48,3 +48,4 @@ Bardziej zdalne niż lokalne:
 * SoftwareMill - Adam Warski (na grupie), praca mocno otwarta, jak open source
 * Qordoba - Marek Skórkowski (na grupie), System wspomagania tłumaczeń. Mały zespół. Scala, Play, Akka trochę Sparka, ML. Dobrze płacą, firma z San Francisco
 
+<a href="{{ site.github.repository_url }}/tree/master/example1.md">Edytuj listę</a>
