@@ -6,7 +6,7 @@ permalink: /companies/
 
 Firmy ze Scalą w Warszawie i okolicach + praca zdalna. Dopisywać i poprawiać, min.: nazwa + kontakt (preferowany bezpośredni) + coś o skali użycia + czy etat/B2B. Mile widziane dolinkowanie strony www firmy do ich nazwy.
 
-Warszawa + okolice:
+# Warszawa + okolice:
 * Allegro - ?, ponad 700 usług produkcyjnych, niektóre w Scali chociaż kotlin idzie w siłę.
 * Adform - Tomasz Kogut (na grupie), duzi i dobrze płacą
 * Citi Bank - ?, duży bank, osobliwe miejsce, ale dobrze płacą
@@ -32,17 +32,17 @@ Warszawa + okolice:
 * YouGov - Maciej Turło, mały oddział dużej firmy ankietowej
 * 9LivesData - ?, ~50 osób, prowadzą projekt Big Data/ML w Scali, oraz drugi, większy, w C++ i Python.
 
-Łódź - ziemia obiecana
+# Łódź - ziemia obiecana
 * IDEMIA - Paweł Włodarski(na grupie) Domeny biznesowe zwiazane z  kryptografią, są dwa projekty czysto scalowe, jeden ma interfejsy SOAPowe , korpo własne produkty. Widełki na scale 10-15k na B2B.
 * TomTom -  mapy robią, korpo własne produkty. 
 * GFT -  usługi dla banków, korpo outsorcing.
 
-Kraków + okolice:
+# Kraków + okolice:
 * VirtusLab - Paweł Dolega i wiele innych osób (na grupie), software house / usługi softwarowe na świat, duża firma (120+ osób), sporo eventów. Biuro także w Kielcach.
 * Schibsted - ???
 * j-Labs - głównie outsourcing, takżę Scalowy
 
-Bardziej zdalne niż lokalne:
+# Bardziej zdalne niż lokalne:
 * Pyrofex - Paweł Szulc (na grupie), USA mocno funkcyjnie
 * Scalac - Mariusz Nosiński (na grupie), wypożyczają na świat, duzi
 * SoftwareMill - Adam Warski (na grupie), praca mocno otwarta, jak open source
