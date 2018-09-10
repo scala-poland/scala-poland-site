@@ -4,7 +4,7 @@ title: Regulamin chat-u
 permalink: /coc/
 ---
 
-# Regulamin:
+# Regulamin
 
 * Starać się pisać w najbardziej “wyspecjalizowanym kanale” zamiast ogólnym.
 * Jeśli jest już tam aktywny wątek to szukać innego kanału, może być bardziej ogólny.

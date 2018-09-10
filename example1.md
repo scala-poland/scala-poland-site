@@ -4,7 +4,7 @@ title: Firmy scalowe
 permalink: /companies/
 ---
 
-# Firmy ze Scalą w Warszawie i okolicach + praca zdalna
+# Firmy pracujące ze Scalą
 Dopisywać i poprawiać, min.: nazwa + kontakt (preferowany bezpośredni) + coś o skali użycia + czy etat/B2B. Mile widziane dolinkowanie strony www firmy do ich nazwy.
 
 ## Warszawa + okolice:

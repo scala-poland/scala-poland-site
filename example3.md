@@ -4,7 +4,7 @@ title: Linkownia
 permalink: /links/
 ---
 
-# Reszta linków
+# Linki
 
 * [Scala online](https://www.tutorialspoint.com/compile_scala_online.php)
 * [Scala.js online](https://scalafiddle.io)
