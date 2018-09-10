@@ -4,7 +4,8 @@ title: Grupy lokalne
 permalink: /local/
 ---
 
-Grupy lokalne związane ze Scalą:
+## Grupy lokalne związane ze Scalą:
+
 * [FunctionalTricity](https://www.meetup.com/FunctionalTricity/)
 * [ScalaWAW](https://www.meetup.com/ScalaWAW/)
 * [WarsawScala](https://www.meetup.com/WarsawScala/)
