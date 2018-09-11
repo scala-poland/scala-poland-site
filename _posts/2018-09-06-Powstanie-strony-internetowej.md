@@ -3,7 +3,7 @@ layout: post
 comments: true
 ---
 
-<img align="right" src="/assets/glosowanieLogo.png">
+<img style="float: right;" src="/assets/glosowanieLogo.png">
 
 Pierwsza wersja strony grupy ujrzała światło dzienne.
 
