@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 ---
 
 Pierwsza wersja strony grupy ujrzała światło dzienne.
