@@ -7,7 +7,7 @@ permalink: /coc/
 # Porządek na slacku
 
 * Napisz coś o sobie na kanale #welcome, skąd jesteś, czego potrzebujesz, może mentora?, cokolwiek ;).
-* Ustaw sobie ([minimalne](https://blog.ww86.eu/apps/2018/08/03/low-distraction-slack.html)) powiadomienia na slacku, lepiej rzadziej wchodzić niż zniechęcić się całkowicie do grupy.
+* Ustaw sobie ( [minimalne](https://blog.ww86.eu/apps/2018/08/03/low-distraction-slack.html) ) powiadomienia na slacku, lepiej rzadziej wchodzić niż zniechęcić się całkowicie do grupy.
 * Wczytaj swoje zdjęcie do profilu. Będzie milej i rozbudowujesz swój zawodowy image.
 * Dołącz do kanału dużego miasta w twoim województwie, jak nie ma to daj znać któremuś z adminów.
 * Unikaj komunikacji 1to1 jeśli dany temat może być ciekawy dla innych. Domyślnie pytaj/zgłaszaj na publicznych kanałach.
@@ -18,6 +18,7 @@ permalink: /coc/
 
 ## English
 You can write on any channel in english, everybody will understand you.
+
 ## Hiring
 You may put a job advert but the salary range is required. Channel #hiring
 
