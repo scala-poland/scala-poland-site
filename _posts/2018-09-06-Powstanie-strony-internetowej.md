@@ -3,11 +3,11 @@ layout: post
 comments: true
 ---
 
-<img style="float: right;" src="/assets/glosowanieLogo.png">
-
 Pierwsza wersja strony grupy ujrzała światło dzienne.
 
 Prosimy o dosyłanie: nowe linki, posty (np. o nadchodzących konferencjach), nowe grupy lokalne i firmy pracujące ze Scalą.
+
+<img style="float: right;" src="/assets/glosowanieLogo.png">
 
 Trochę historii grupy slackowego:
 - Warszawska grupa slackowa założona przez Jacka Laskowskiego i używana tylko do wydarzeń meetup-owych,
