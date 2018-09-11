@@ -8,7 +8,7 @@ twitter_username: singpoo
 github_username:  kastoestoramadus
 google_analytics: "UA-123554052-2"
 disqus:
-  shortname: kastoestoramadus
+  shortname: scala-poland
 
 sass:
     style: compressed
