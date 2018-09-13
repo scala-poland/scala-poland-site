@@ -52,6 +52,7 @@ Dopisywać i poprawiać. Konieczny wspólny wysiłek.
 * j-Labs - głównie outsourcing, takżę Scalowy
 
 ## Remote:
+* GlobalWebIndex - Mateusz Maciaszek (na grupie), Łukasz Stefaniak (na grupie), Anglia, Analiza respondentów (ankiety), BigData, Streams everywhere
 * Pyrofex - Paweł Szulc (na grupie), USA mocno funkcyjnie
 * Scalac - Mariusz Nosiński (na grupie), wypożyczają na świat, duzi
 * SoftwareMill - Adam Warski (na grupie), praca mocno otwarta, jak open source
