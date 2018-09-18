@@ -27,7 +27,7 @@ Dopisywać i poprawiać. Konieczny wspólny wysiłek.
 * Filmaster - wykupiony przez Samba TV w 2015 roku. Samba rekrutuje w Waw (https://samba.tv/careers/)
 * Goldman Sachs - ?, duży bank, dobrze płacą, więcej Javy
 * IQVIA (byłe IMS Health) - zatrudniają cały czas, potrzebują więcej ludzi do Sparka, Scali i wiele innych ciekawych narzędzi. Główny system wokół Sparka.
-* Iterators - gold partner ;) Łukasz Sowa, Jacek Głodek (na grupie), Warszawa i zdalnie
+* Iterators - Łukasz Sowa, Jacek Głodek (na grupie); software consulting; backend 100% Scala; Warszawa, Kraków i zdalnie https://iterato.rs/careers
 * Javeo - J. Zadrąg, mały zespół
 * MAM - Piotr Bąbel (na grupie lub pbabel@jamam.pl), https://www.jamam.pl, technologia (mikroserwisy, docker, kubernetes, scala, kafka, avro, ELK itp.), team technologiczny ok. 18 osób (backend 7 osób), umowa B2B do 16 tys netto + VAT (negocjowalne jeśli ktoś dobry), płatny urlop (26 dni), możliwość częściowej pracy zdalnej, elastyczne godziny pracy, integracje ;) Szukamy też ludzi do ML.
 * Nordea - Piotr Rudnicki (na grupie), właśnie otworzyli biuro w Warszawie i ści(ą)gają ludzi do projektu ze Sparkiem i Scali (scala ale tylko spark, przetwarzanie z pliku do pliku, bardziej Big Data Dev’a szukają)
@@ -48,11 +48,13 @@ Dopisywać i poprawiać. Konieczny wspólny wysiłek.
 
 ## Kraków
 * VirtusLab - Paweł Dolega i wiele innych osób (na grupie), software house / usługi softwarowe na świat, duża firma (120+ osób), sporo eventów. Biuro także w Kielcach.
+* Iterators - j/w
 * Schibsted - ???
 * j-Labs - głównie outsourcing, takżę Scalowy
 
 ## Remote:
 * GlobalWebIndex - Mateusz Maciaszek (na grupie), Łukasz Stefaniak (na grupie), Anglia, Analiza respondentów (ankiety), BigData, Streams everywhere
+* Iterators - j/w
 * Pyrofex - Paweł Szulc (na grupie), USA mocno funkcyjnie
 * Scalac - Mariusz Nosiński (na grupie), wypożyczają na świat, duzi
 * SoftwareMill - Adam Warski (na grupie), praca mocno otwarta, jak open source
