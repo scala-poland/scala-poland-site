@@ -46,13 +46,13 @@ Zalecane:
 * **TomTom**-  mapy robią, korpo własne produkty. 
 * **GFT**-  usługi dla banków, korpo outsorcing.
 
-##** **Kraków
+## Kraków
 * **VirtusLab**- Paweł Dolega i wiele innych osób (na grupie), software house / usługi softwarowe na świat, duża firma (120+ osób), sporo eventów. Biuro także w Kielcach.
 * **Iterators**- j/w
 * **Schibsted**- ???
 * **j-Labs** - głównie outsourcing, takżę Scalowy
 
-##** **Remote:
+## Remote:
 * **GlobalWebIndex**- Mateusz Maciaszek (na grupie), Łukasz Stefaniak (na grupie), Anglia, Analiza respondentów (ankiety), BigData, Streams everywhere
 * **Iterators**- j/w
 * **Pyrofex**- Paweł Szulc (na grupie), USA mocno funkcyjnie
