@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Strona ogólno-polskiej grupy entuzjastów Scali.
+Strona ogólnopolskiej grupy entuzjastów Scali.
