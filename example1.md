@@ -65,8 +65,8 @@ Zalecane we wpisie:
 * kontakt (preferowany bezpośredni),
 * w jakim zakresie jest Scala używana,
 * jaki biznes realizują,
-* remote = bardziej zdalne niż lokalne
+* jeśli remote: okreś czy jest remote first czy na doczepkę,
 
-
+Skorzystałeś na tej liście? Pochwal się na chatcie! Serio, dobre słowo to często najlepsze paliwo ;)
 
 <a href="{{ site.github.repository_url }}/tree/master/example1.md">Edytuj listę</a>
