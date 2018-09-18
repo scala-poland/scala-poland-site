@@ -6,14 +6,7 @@ permalink: /companies/
 
 # Firmy pracujące ze Scalą
 
-Lista utrzymywana przez chętnych, każdy może edytować. Znasz jakąś niewymienioną firmę? Dopisz, z githubem to dostłownie parę minut.
-
-Zalecane:
-* nazwa firmy (?link do strony firmowej),
-* kontakt (preferowany bezpośredni),
-* w jakim zakresie jest Scala używana,
-* jaki biznes realizują,
-* remote = bardziej zdalne niż lokalne
+Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na końcu więcej o samej liście.
 
 ## Warszawa
 * **Allegro**- ?, ponad 700 usług produkcyjnych, niektóre w Scali chociaż kotlin idzie w siłę.
@@ -58,5 +51,22 @@ Zalecane:
 * **Scalac**- Mariusz Nosiński (na grupie), wypożyczają na świat, duzi
 * **SoftwareMill**- Adam Warski (na grupie), praca mocno otwarta, jak open source
 * **Qordoba**- Marek Skórkowski (na grupie), System wspomagania tłumaczeń. Mały zespół. Scala, Play, Akka trochę Sparka, ML. Dobrze płacą, firma z San Francisco
+
+# Meta
+
+* Im mniej rekruter zarobi tym lepiej dla pracodawcy i dla pracownika. Rekruterzy potrafią brać 30% wypłaty przez pół roku.
+* Zmniejsza barierę wejścia do światka Scali. Wiele firm jest otwarta na nowego pracownika, mimo że nie mają aktywnych ogłoszeń na zewnętrznych serwisach.
+* Ułatwia bezpośredni kontakt do źródła bez konfliktu interesów z pośrednikiem.
+
+Każdy może edytować. Może znasz jakąś niewymienioną firmę? **Dopisz**. Coś się nie zgadza? **Popraw**. z kontem na githubie to dosłownie parę minut.
+
+Zalecane we wpisie:
+* nazwa firmy (?link do strony firmowej),
+* kontakt (preferowany bezpośredni),
+* w jakim zakresie jest Scala używana,
+* jaki biznes realizują,
+* remote = bardziej zdalne niż lokalne
+
+
 
 <a href="{{ site.github.repository_url }}/tree/master/example1.md">Edytuj listę</a>
