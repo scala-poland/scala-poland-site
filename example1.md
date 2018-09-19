@@ -44,7 +44,7 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **Schibsted**- ???
 * **j-Labs** - głównie outsourcing, takżę Scalowy
 
-## Remote:
+## Remote
 * **GlobalWebIndex**- Mateusz Maciaszek (na grupie), Łukasz Stefaniak (na grupie), Anglia, Analiza respondentów (ankiety), BigData, Streams everywhere
 * **Iterators**- j/w
 * **Pyrofex**- Paweł Szulc (na grupie), USA mocno funkcyjnie
@@ -65,7 +65,7 @@ Zalecane we wpisie:
 * kontakt (preferowany bezpośredni),
 * w jakim zakresie jest Scala używana,
 * jaki biznes realizują,
-* jeśli remote: okreś czy jest remote first czy na doczepkę,
+* jeśli remote: określ czy jest remote first czy na doczepkę,
 
 Skorzystałeś na tej liście? Pochwal się na chatcie! Serio, dobre słowo to często najlepsze paliwo ;)
 
