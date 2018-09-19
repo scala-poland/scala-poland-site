@@ -54,9 +54,9 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 
 # Meta
 
-* Im mniej rekruter zarobi tym lepiej dla pracodawcy i dla pracownika. Rekruterzy potrafią brać 30% wypłaty przez pół roku.
 * Zmniejsza barierę wejścia do światka Scali. Wiele firm jest otwarta na nowego pracownika, mimo że nie mają aktywnych ogłoszeń na zewnętrznych serwisach.
-* Ułatwia bezpośredni kontakt do źródła bez konfliktu interesów z pośrednikiem.
+* Zmniejsza koszty i wysiłki rekrutacji. Niemoc zatrudnienia programisty Scali zniechęca w ogóle do języka.
+* Ułatwia bezpośredni kontakt. Pośrednio, wiedza o firmie się rozmywa.
 
 Każdy może edytować. Może znasz jakąś niewymienioną firmę? **Dopisz**. Coś się nie zgadza? **Popraw**. z kontem na githubie to dosłownie parę minut.
 
