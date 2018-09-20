@@ -8,6 +8,22 @@ permalink: /companies/
 
 Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na końcu więcej o samej liście.
 
+## Kraków
+* **VirtusLab**- Paweł Dolega i wiele innych osób (na grupie), software house / usługi softwarowe na świat, duża firma (120+ osób), sporo eventów. Biuro także w Kielcach.
+* **Iterators**- j/w
+* **Schibsted**- ???
+* **j-Labs** - głównie outsourcing, takżę Scalowy
+
+## Łódź
+* **IDEMIA**- Paweł Włodarski(na grupie) Domeny biznesowe zwiazane z  kryptografią, są dwa projekty czysto scalowe, jeden ma interfejsy SOAPowe , korpo własne produkty. Widełki na scale 10-15k na B2B.
+* **TomTom**-  mapy robią, korpo własne produkty. 
+* **GFT**-  usługi dla banków, korpo outsorcing.
+
+## Trójmiasto
+* **ScalaC**- jak w sekcji Remote
+* **SparteZ**- ?, ?, byli Scalowi, dawno o nich nie słyszałem
+* **Intel**- ?,?, Wśród długiej listy języków mają Scalę
+
 ## Warszawa
 * **Allegro**- ?, ponad 700 usług produkcyjnych, niektóre w Scali chociaż kotlin idzie w siłę.
 * **Adform**- Tomasz Kogut (na grupie), duzi i dobrze płacą
@@ -33,16 +49,8 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **YouGov**- Maciej Turło, mały oddział dużej firmy ankietowej
 * **9LivesData**- ?, ~50 osób, prowadzą projekt Big Data/ML w Scali, oraz drugi, większy, w C++ i Python.
 
-## Łódź
-* **IDEMIA**- Paweł Włodarski(na grupie) Domeny biznesowe zwiazane z  kryptografią, są dwa projekty czysto scalowe, jeden ma interfejsy SOAPowe , korpo własne produkty. Widełki na scale 10-15k na B2B.
-* **TomTom**-  mapy robią, korpo własne produkty. 
-* **GFT**-  usługi dla banków, korpo outsorcing.
-
-## Kraków
-* **VirtusLab**- Paweł Dolega i wiele innych osób (na grupie), software house / usługi softwarowe na świat, duża firma (120+ osób), sporo eventów. Biuro także w Kielcach.
-* **Iterators**- j/w
-* **Schibsted**- ???
-* **j-Labs** - głównie outsourcing, takżę Scalowy
+# Wrocław
+* Ciklum, Volvo Cars, Margo Conseil, Atos, Tieto - ?,?, przeklepane z wyszukiwarki
 
 ## Remote
 * **GlobalWebIndex**- Mateusz Maciaszek (na grupie), Łukasz Stefaniak (na grupie), Anglia, Analiza respondentów (ankiety), BigData, Streams everywhere
@@ -58,7 +66,7 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * Zmniejsza koszty i wysiłki rekrutacji. Niemoc zatrudnienia programisty Scali zniechęca w ogóle do języka.
 * Ułatwia bezpośredni kontakt. Pośrednio, wiedza o firmie się rozmywa.
 
-Każdy może edytować. Może znasz jakąś niewymienioną firmę? **Dopisz**. Coś się nie zgadza? **Popraw**. z kontem na githubie to dosłownie parę minut.
+Każdy może edytować. Może znasz jakąś niewymienioną firmę? **Dopisz**. Coś się nie zgadza? **Popraw**. Jakaś firma marginulizuje Scalę? **Usuń** Z kontem na githubie to dosłownie parę minut.
 
 Zalecane we wpisie:
 * nazwa firmy (?link do strony firmowej),
