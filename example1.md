@@ -19,6 +19,9 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **TomTom**-  mapy robią, korpo własne produkty. 
 * **GFT**-  usługi dla banków, korpo outsorcing.
 
+## Poznań
+* Nordcloud Poland, Cyclad, Allegro - ?,?, przeklepane z wyszukiwarki
+
 ## Trójmiasto
 * **ScalaC**- jak w sekcji Remote
 * **SparteZ**- ?, ?, byli Scalowi, dawno o nich nie słyszałem
