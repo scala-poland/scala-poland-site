@@ -52,10 +52,10 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **YouGov**- Maciej Turło, mały oddział dużej firmy ankietowej
 * **9LivesData**- ?, ~50 osób, prowadzą projekt Big Data/ML w Scali, oraz drugi, większy, w C++ i Python.
 
-# Wrocław
+## Wrocław
 * Ciklum, Volvo Cars, Margo Conseil, Atos, Tieto - ?,?, przeklepane z wyszukiwarki
 
-## Remote
+# Remote
 * **GlobalWebIndex**- Mateusz Maciaszek (na grupie), Łukasz Stefaniak (na grupie), Anglia, Analiza respondentów (ankiety), BigData, Streams everywhere
 * **Iterators**- j/w
 * **Pyrofex**- Paweł Szulc (na grupie), USA mocno funkcyjnie
@@ -65,19 +65,20 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 
 # Meta
 
+Każdy może edytować. Może znasz jakąś niewymienioną firmę? **Dopisz**. Coś się nie zgadza? **Popraw**. Jakaś firma marginulizuje Scalę? **Usuń** Z kontem na githubie to dosłownie parę minut.
+
+Skorzystałeś na tej liście? Pochwal się na chatcie! Serio, dobre słowo to często najlepsze paliwo ;)
+
+## Po co ta lista?
 * Zmniejsza barierę wejścia do światka Scali. Wiele firm jest otwarta na nowego pracownika, mimo że nie mają aktywnych ogłoszeń na zewnętrznych serwisach.
 * Zmniejsza koszty i wysiłki rekrutacji. Niemoc zatrudnienia programisty Scali zniechęca w ogóle do języka.
 * Ułatwia bezpośredni kontakt. Pośrednio, wiedza o firmie się rozmywa.
 
-Każdy może edytować. Może znasz jakąś niewymienioną firmę? **Dopisz**. Coś się nie zgadza? **Popraw**. Jakaś firma marginulizuje Scalę? **Usuń** Z kontem na githubie to dosłownie parę minut.
-
-Zalecane we wpisie:
+## Zalecane we wpisie
 * nazwa firmy (?link do strony firmowej),
 * kontakt (preferowany bezpośredni),
 * w jakim zakresie jest Scala używana,
 * jaki biznes realizują,
 * jeśli remote: określ czy jest remote first czy na doczepkę,
-
-Skorzystałeś na tej liście? Pochwal się na chatcie! Serio, dobre słowo to często najlepsze paliwo ;)
 
 <a href="{{ site.github.repository_url }}/tree/master/example1.md">Edytuj listę</a>
