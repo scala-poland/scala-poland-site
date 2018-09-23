@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+Title: Powróciły kursy ze Scali od EPFL
 ---
 
 Po bolesnych zawirowaniach na Courserze, wreszcie nasze ulubione kursy są ponownie dostępne za darmo i bez podawania karty kredytowej!
