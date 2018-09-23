@@ -6,6 +6,7 @@ comments: true
 Pierwsza wersja strony grupy ujrzała światło dzienne.
 
 Prosimy o dosyłanie: nowe linki, posty (np. o nadchodzących konferencjach), nowe grupy lokalne i firmy pracujące ze Scalą.
+
 <img style="float: right;" src="/assets/glosowanieLogo.png">
 
 Trochę historii grupy slackowego:
