@@ -20,7 +20,11 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **GFT**-  usługi dla banków, korpo outsorcing.
 
 ## Poznań
-* Nordcloud Poland, Cyclad, Allegro - ?,?, przeklepane z wyszukiwarki
+* **Allegro** - ?,?
+* **HolidayCheck** - ?,?
+* **Roq.ad** - M. Jukiewicz (na grupie), mały startup AdTechowy
+* **BAE Systems** - ?,?
+* **Nordcloud Poland**, **Cyclad** - ?,?, przeklepane z wyszukiwarki
 
 ## Trójmiasto
 * **ScalaC**- jak w sekcji Remote
