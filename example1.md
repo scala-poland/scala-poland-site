@@ -30,7 +30,6 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **ScalaC** - jak w sekcji Remote
 * **SparteZ** - ?, ?, byli Scalowi, dawno o nich nie słyszałem
 * **Intel** - ?,?, Wśród długiej listy języków mają Scalę
-* **Ciklum** - ?, ukraińska firma outsourcująca do krajów zachodnich. Mają też biuro w Maladze. Dużo projektów Scalowych.
 
 ## Warszawa
 * **Allegro**- ?, ponad 700 usług produkcyjnych, niektóre w Scali chociaż kotlin idzie w siłę.
