@@ -9,6 +9,7 @@ permalink: /links/
 * [Scala online](https://www.tutorialspoint.com/compile_scala_online.php) - kompiluje i uruchamia wpisany kod
 * [Scala.js online](https://scalafiddle.io) - kompiluje i uruchamia wpisany kod
 * [Exercises online](https://www.scala-exercises.org) - dobre pokrycie Scali i bibliotek do niej w ćwiczeniach. kompiluje, ograniczone wprowadzanie
+* [99 mini-exercises](http://aperiodic.net/phil/scala/s-99/) - adaptation of the [Ninety-Nine Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 * [Learn series - DevInsideYou](https://www.youtube.com/playlist?list=PLJGDHERh23x-YBJ8LmYU_IGBFflvsKfLu)
 * [Learn series - Mark Lewis](https://www.youtube.com/playlist?list=PLLMXbkbDbVt9MIJ9DV4ps-_trOzWtphYO)
 * [ScalaTimes Newsletter](https://scalatimes.com) - newsletter po angielsku prowadzony przez SoftwareMill
