@@ -10,8 +10,10 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 
 ## Kraków
 * **VirtusLab**- Paweł Dolega i wiele innych osób (na grupie), software house / usługi softwarowe na świat, duża firma (120+ osób), sporo eventów. Biuro także w Kielcach.
-* **Iterators**- j/w
-* **Schibsted**- ???
+* **Iterators**
+* **Schibsted**
+* **Synerise**
+* **Codete**
 * **j-Labs** - głównie outsourcing, takżę Scalowy
 * **Reality Games** - Michał Płachta (na grupie), gry mobilne bazujące na big data, silnik do gier, mała firma, mocno funkcyjne
 * **Ocado Technology** - głównie Java, ale jest kilka projektów Scalowych
