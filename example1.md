@@ -38,7 +38,7 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 ## Warszawa
 * **Allegro**- ?, ponad 700 usług produkcyjnych, niektóre w Scali chociaż kotlin idzie w siłę.
 * **Adform**- Tomasz Kogut (na grupie), duzi i dobrze płacą
-* **Citi**Bank - ?, duży bank, osobliwe miejsce, ale dobrze płacą
+* **Citi**Bank - Waldemar Wosiński, duży bank, tak osobliwe miejsce, że swojego monitora nie można przynieść, ale dobrze płacą i technologia nie jest zacofana
 * **CloudTechnologies**- M. Siatkowski (na grupie), mały zespół, dużo danych, system RTB
 * **Codilime**- ?, dużo studentów ?
 * **Deep**.BI, kontakt jobs.deep.bi lub jobs@deep.bi. Enterprise SaaS - Platforma AI / big data dla firm mediowych. Klienci w PL, Europie i USA. Ostatnio pozyskali $3.2M. Scali używają głównie do implementacji przetwarzania strumieni na Flinku, liczenia agregatów/fetures dla machine learning. B2B lub UoP, stawki rynkowe + pakiet akcji.
