@@ -1,10 +1,9 @@
 ---
 layout: post
 comments: true
-Title: Pierwsza książka po Polsku o Scalaz*
 ---
 
-Nasz kolega z grupy - Wojetek Pituła - zakończył pisanie książki!
+Nasz kolega z grupy - Wojetek Pituła - zakończył tłumaczenie książki!
 
 [Zapraszamy do czytania!](https://leanpub.com/fpmortals-pl) Można wynagrodzić trud dowolną kwotą.
 
