@@ -3,7 +3,7 @@ layout: post
 comments: true
 ---
 
-Nasz kolega z grupy - Wojetek Pituła - zakończył tłumaczenie książki!
+Nasz kolega z grupy - Wojtek Pituła - zakończył tłumaczenie książki!
 
 [Zapraszamy do czytania.](https://leanpub.com/fpmortals-pl) Można wynagrodzić trud dowolną kwotą.
 
