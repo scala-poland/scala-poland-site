@@ -20,7 +20,7 @@ permalink: /coc/
 You can write on any channel in english, everybody will understand you.
 
 ## Hiring
-You may put a job advert but the salary range is required. Channel #hiring
+You may put a job advert but the salary range is required (with exception for Devs working in given company). Channel #hiring
 
 
 Mam nadzieję, że grupa slack-owa ułatwi wam wejście w świat scalowy i umożliwi pracę zarobkową z tym kreatywnym językiem.
