@@ -17,6 +17,7 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **j-Labs** - głównie outsourcing, takżę Scalowy
 * **Reality Games** - Michał Płachta (na grupie), gry mobilne bazujące na big data, silnik do gier, mała firma, mocno funkcyjne
 * **Ocado Technology** - głównie Java, ale jest kilka projektów Scalowych
+* **[Grand Parade](https://grandparade.co.uk/)** - Domena związana z zakładami sportowymi i hazardem, własne produkty, projekt Scalowy na nowy rynek,  kontakt Sebastian Niemczyk na grupie
 
 ## Łódź
 * **IDEMIA**- Paweł Włodarski(na grupie) Domeny biznesowe zwiazane z  kryptografią, są dwa projekty czysto scalowe, jeden ma interfejsy SOAPowe , korpo własne produkty. Widełki na scale 10-15k na B2B.
