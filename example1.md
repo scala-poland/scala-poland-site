@@ -52,7 +52,34 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **Javeo**- J. Zadrąg, mały zespół
 * **MAM**- Piotr Bąbel (na grupie lub pbabel@jamam.pl), https://www.jamam.pl, technologia (mikroserwisy, docker, kubernetes, scala, kafka, avro, ELK itp.), team technologiczny ok. 18 osób (backend 7 osób), umowa B2B do 16 tys netto + VAT (negocjowalne jeśli ktoś dobry), płatny urlop (26 dni), możliwość częściowej pracy zdalnej, elastyczne godziny pracy, integracje ;) Szukamy też ludzi do ML.
 * **Nordea**- Piotr Rudnicki (na grupie), właśnie otworzyli biuro w Warszawie i ści(ą)gają ludzi do projektu ze Sparkiem i Scali (scala ale tylko spark, przetwarzanie z pliku do pliku, bardziej Big Data Dev’a szukają)
-* **Semantive**- Maciej Migacz, Big Data i Data Science, projekty w Python i Scala
+* **SEMANTIVE**- Big Data/Data Science/Cloud. Careers@semantive.com https://semantive.com/career/                                       We are supporting our long term partner who’s developing a FinTech product. We are looking for talented Full Stack Developers, who want to join well organised scrum team and participate in regular product-focused development.     
+
+*WHAT WILL YOU BE DOING?* 
+Working with a middle-sized, well-organized and stable agile project where you gain the best technical and project-related habits. Developing a production system for the insurance sector. Building microservices with Scala and web apps with AngularJS. Working both with highly skilled professionals and junior programmers in a friendly and supportive atmosphere. 
+
+*WHAT YOU WILL GET?*
+- Cozy office in the city center.
+- Up to 20% remote.
+- Knowledge-sharing sessions.
+- Flat company structure.
+- Flexible working hours.
+- English lessons.
+- Training.
+- Taking part in conferences.
+- The opportunity to write articles for our blog.
+- Medical package.
+- Sports and leisure package.
+- If you bring in a new team member, you get a bonus.
+- Library.
+- Bicycle parking.
+- Delicious kinds of coffee and tea.
+- Fresh fruits.
+- Team-building meetings.
+- Celebrating Birthdays.
+- Fresh air (we have air filters).
+
+
+
 * **SMACC.io** - Wojciech Barczyński (na grupie), startup ML/AI dla procesów finansowych z Berlina, wchodzący na PL i USA, dominuje Go, CI/CD jest, całość na kubernetes, mikroserwisy, oferta 14500 Netto + Udziały, 26 urlop, dopłaty do obiadu, itp. Itd. Biuro: Przy Stacji Metra Centrum, Business Link Astoria, Prywatne biuro w Coworkingu
 * **Sumo Logic** - Adam Sznajder (na grupie), dobrze płacą, ale wymagają; wielka skala, firma z Doliny Krzemowej, robią własny produkt, UOP
 * **Swing Development** - ?, ?
