@@ -60,6 +60,7 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **Westwing**- M. Gutowski (na grupie) bardzo mały zespół
 * **YouGov**- Maciej Turło, mały oddział dużej firmy ankietowej
 * **9LivesData**- ?, ~50 osób, prowadzą projekt Big Data/ML w Scali, oraz drugi, większy, w C++ i Python.
+* [**Sumo Logic**](https://www.sumologic.com/company/careers/) - San Francisco Bay Area unicorn, SaaS, microservices, processing dozens of PB of data, UoP brutto: 12-16k UoP entry level, 17-19k mid, 20k brutto wzwyż
 
 ## Wrocław
 * **[Ocado Technology](https://ocadotechnology.com/wroclaw/)** - Bartosz Jankiewicz (na grupie) świetna kultura pracy i duża autonomia. Głównie Java, ale są też projekty w Scala. Projekty dotyczą wdrażania eCommerce dla dużych sieci sklepów.
