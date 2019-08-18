@@ -49,7 +49,6 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **Goldman Sachs** - ?, duży bank, dobrze płacą, więcej Javy
 * **IQVIA**(byłe IMS Health) - zatrudniają cały czas, potrzebują więcej ludzi do Sparka, Scali i wiele innych ciekawych narzędzi. Główny system wokół Sparka.
 * [**Iterators**](https://iterato.rs/careers)- Łukasz Sowa, Jacek Głodek (na grupie); software consulting; backend 100% Scala; Warszawa, Kraków i zdalnie
-* **MAM**- Piotr Bąbel (na grupie lub pbabel@jamam.pl), https://www.jamam.pl, technologia (mikroserwisy, docker, kubernetes, scala, kafka, avro, ELK itp.), team technologiczny ok. 18 osób (backend 7 osób), umowa B2B do 16 tys netto + VAT (negocjowalne jeśli ktoś dobry), płatny urlop (26 dni), możliwość częściowej pracy zdalnej, elastyczne godziny pracy, integracje ;) Szukamy też ludzi do ML.
 * **Nordea**- Piotr Rudnicki (na grupie), właśnie otworzyli biuro w Warszawie i ści(ą)gają ludzi do projektu ze Sparkiem i Scali (scala ale tylko spark, przetwarzanie z pliku do pliku, bardziej Big Data Dev’a szukają)
 * **Semantive**- Maciej Migacz, Big Data i Data Science, projekty w Python i Scala
 * **SMACC.io** - Wojciech Barczyński (na grupie), startup ML/AI dla procesów finansowych z Berlina, wchodzący na PL i USA, dominuje Go, CI/CD jest, całość na kubernetes, mikroserwisy, oferta 14500 Netto + Udziały, 26 urlop, dopłaty do obiadu, itp. Itd. Biuro: Przy Stacji Metra Centrum, Business Link Astoria, Prywatne biuro w Coworkingu
