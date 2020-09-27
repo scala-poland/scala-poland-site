@@ -20,5 +20,6 @@ permalink: /links/
 * [Why Scala - grows well](https://www.youtube.com/watch?v=_ahvzDzKdB0) - defniuje co znaczy rośnie wraz ze społecznością. Jedena z żadziej spotykanych zalet języków.
 * [FP resources](https://github.com/mmenestret/fp-resources/blob/master/README.md) - mnóstwo materiałów do nauki programowania funkcyjnego
 * [OOP broken promises](https://getpocket.com/a/read/1359636578) - niedotrzymane obietnice programowania obiektowego
+* [Scala Podcasts](https://scala.love/) - podcasty do posłuchania
 
 <a href="{{ site.github.repository_url }}/tree/master/example3.md">Edytuj listę</a>
