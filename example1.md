@@ -39,9 +39,11 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 ## Warszawa
 * **Allegro**- ?, ponad 700 usług produkcyjnych, niektóre w Scali chociaż kotlin idzie w siłę.
 * **Adform**- Tomasz Kogut (na grupie), duzi i dobrze płacą
-* **Citi**Bank - Waldemar Wosiński, duży bank, tak osobliwe miejsce, że swojego monitora nie można przynieść, ale dobrze płacą i technologia nie jest zacofana
+* **Box** - 2021 - otwarcie i rozrost oddziału amerykańskiej firmy
+* **Citi**Bank -duży bank, tak osobliwe miejsce, że swojego monitora nie można przynieść, ale dobrze płacą i technologia nie jest zacofana
 * **CloudTechnologies**- M. Siatkowski (na grupie), mały zespół, dużo danych, system RTB
 * **Codilime**- ?, dużo studentów ?
+* **Datumo** - polska firma, outsourcing i własne produkty
 * **Deep**.BI, kontakt jobs.deep.bi lub jobs@deep.bi. Enterprise SaaS - Platforma AI / big data dla firm mediowych. Klienci w PL, Europie i USA. Ostatnio pozyskali $3.2M. Scali używają głównie do implementacji przetwarzania strumieni na Flinku, liczenia agregatów/fetures dla machine learning. B2B lub UoP, stawki rynkowe + pakiet akcji.
 * **Dotsystems**- A. Jóźwik (na grupie), mały zespół
 * **Evojam**- Marek Grochala (pośrednik na grupie o nicku @Lesik), software house, B2B, możliwa praca zdalna
@@ -52,7 +54,7 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **Nordea**- Piotr Rudnicki (na grupie), właśnie otworzyli biuro w Warszawie i ści(ą)gają ludzi do projektu ze Sparkiem i Scali (scala ale tylko spark, przetwarzanie z pliku do pliku, bardziej Big Data Dev’a szukają)
 * **Semantive**- Maciej Migacz, Big Data i Data Science, projekty w Python i Scala
 * **SMACC.io** - Wojciech Barczyński (na grupie), startup ML/AI dla procesów finansowych z Berlina, wchodzący na PL i USA, dominuje Go, CI/CD jest, całość na kubernetes, mikroserwisy, oferta 14500 Netto + Udziały, 26 urlop, dopłaty do obiadu, itp. Itd. Biuro: Przy Stacji Metra Centrum, Business Link Astoria, Prywatne biuro w Coworkingu
-* **Sumo Logic** - Adam Sznajder (na grupie), dobrze płacą, ale wymagają; wielka skala, firma z Doliny Krzemowej, robią własny produkt, UOP
+* **Sumo Logic** - Adam Sznajder (na grupie), dobrze płacą, ale wymagają, firma z Doliny Krzemowej, robią własny produkt, UOP
 * **Swing Development** - ?, ?
 * **TouK**- ?, Polska firma, miły klimat, przeciętna pensja
 * **Westwing**- M. Gutowski (na grupie) bardzo mały zespół
@@ -70,6 +72,7 @@ Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na ko
 * **Scalac**- Mariusz Nosiński (na grupie), wypożyczają na świat, duzi
 * **SoftwareMill**- Adam Warski (na grupie), praca mocno otwarta, jak open source
 * **Qordoba**- Marek Skórkowski (na grupie), System wspomagania tłumaczeń. Mały zespół. Scala, Play, Akka trochę Sparka, ML. Dobrze płacą, firma z San Francisco
+* **VirtusLab**
 
 # Meta
 
