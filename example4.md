@@ -15,6 +15,7 @@ permalink: /coc/
 * Jeśli jest już tam aktywny wątek to szukać innego kanału, może być bardziej ogólny.
 * Cel kanału powinien być intuicyjny z samej jego nazwy. Opisy są uzupełnieniem. Czasem do kanału jest przypięty komunikat (u góry), oraz może mieć przypięte posty.
 * I nie bać się! Pisać, pytać, dzielić się. Komunikator jest dla ludzi ;).
+* Z komunikacją 1 do 1 proszę używać innych komunikatorów jeśli masz alternatywę. Tu mamy limit historii na wiadomości - 10k wiadomości. Z tego też powodu staraj się pisać mniejsze, ale większe wiadomości.
 
 ## English
 You can write on any channel in english, everybody will understand you.
