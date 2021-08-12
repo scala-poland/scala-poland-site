@@ -6,7 +6,7 @@ permalink: /companies/
 
 # Firmy pracujące ze Scalą
 
-Lista Open Source. Pogrupowana według dużych miast + kategoria `Remote`. Na końcu więcej o samej liście.
+Pogrupowana według dużych miast + kategoria `Remote`. Na końcu więcej o samej liście. Można też sobie zasubkrybować z [zewnętrznego serwisu](https://nofluffjobs.com/pl/praca-it/scala).
 
 ## Kraków
 * **VirtusLab**- Paweł Dolega i wiele innych osób (na grupie), software house / usługi softwarowe na świat, duża firma (120+ osób), sporo eventów. Biuro także w Kielcach.
