@@ -21,7 +21,8 @@ permalink: /coc/
 You can write on any channel in english, everybody will understand you.
 
 ## Hiring
-You may put a job advert but the salary range is required (with exception for Devs working in given company). Channel #hiring
+You may put a job advert but the salary range is required (with exception for posting by Devs working in a given company). Channel #hiring
+Main language has to be Scala. If remote, working from Poland has to be allowed.
 
 
 Mam nadzieję, że grupa slack-owa ułatwi wam wejście w świat scalowy i umożliwi pracę zarobkową z tym kreatywnym językiem.
